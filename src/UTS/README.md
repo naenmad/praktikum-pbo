@@ -3,7 +3,7 @@
 
 1. **Clone repository**:
     ```sh
-    git clone <URL_REPOSITORY>
+    git clone <URL_REPOSITORY](https://github.com/naenmad/praktikum-pbo/tree/main/src/UTS>
     cd <NAMA_FOLDER_REPOSITORY>
     ```
 
