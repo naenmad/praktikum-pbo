@@ -3,12 +3,9 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Student Information
-╔══════════════════════════════════════╗ 
-║ Name : Ahmad Zulkarnaen ║ 
-║ NIM : 2310631170064 ║ 
-║ Class : 3D - Informatics ║ 
-║ Faculty : Computer Science ║ 
-╚══════════════════════════════════════╝
+Name : Ahmad Zulkarnaen 
+NIM : 2310631170064 
+Class : 3D - Informatics
 
 ## Overview
 A comprehensive Object-Oriented Programming project developed at the Faculty of Computer Science, University of Singaperbangsa Karawang. This project demonstrates various OOP concepts through practical implementations.
