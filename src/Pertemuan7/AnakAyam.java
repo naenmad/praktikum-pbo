@@ -1,7 +1,7 @@
 package Pertemuan7;
 
 public class AnakAyam {
-    // Program ini menghitung lagu anak ayam turun 1
+    // Program ini menghitung lagu anak ayam turun 1 hingga habis
     public static void main(String[] args) {
         // Memulai dari 10 anak ayam (Ubah sesuai keinginan)
         int ayam = 10;
